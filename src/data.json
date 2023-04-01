@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "title" :"abdur rehman",
+        "tyepe": "human"
+    },
+    {
+         "id":"2",
+        "title" :"bakhtwar",
+        "tyepe": "human"
+    },
+    {
+         "id":"3",
+        "title" :"Talha",
+        "tyepe": "human"
+    }
+]
